@@ -1,3 +1,7 @@
+## Dashboard Preview
+
+![Dashboard Preview](dashboard-preview.png)
+
 # Superstore Executive Summary Dashboard | Tableau
 
 ## Overview
